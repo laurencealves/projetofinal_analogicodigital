@@ -1,2 +1,2 @@
-# projetofinal_pontolinhaeplano
+# projetofinal_laurencealves
 Ponto, linha e plano
